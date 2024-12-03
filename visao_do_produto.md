@@ -67,9 +67,7 @@ O administrador será um moderador do sistema, não necessariamente usufruindo d
 | RF03 | Realizar as listas de questões | O aluno pode visualizar as listas de questões existentes, podendo responde-las e verificar a sua resposta, recebendo um em texto ou vídeo como correção, caso tenha. |
 | RF04 | Realizar simulados | O aluno pode visualizar as listas de questões existentes, podendo responde-las e verificar a sua resposta, recebendo uma descrição em texto ou vídeo como correção. |
 | RF05 | Acessar perfil | O aluno e o administrador devem pder acessar o seu perfil. |
-| RF06 | Realizar listas de questões | O aluno pode visualizar as listas de questões existentes, podendo responde-las e verificar a sua resposta, recebendo uma descrição em texto ou vídeo como correção. |
-| RF07 | Deve ser possível visualizar o seu dempenho geral na plataforma | O aluno pode visualizar as listas de questões existentes, podendo responde-las e verificar a sua resposta, recebendo uma descrição em texto ou vídeo como correção. |
-| RF08 | Gerenciar os materiais disponiveis na plataforma, disciplinas, matérias, aulas, listas, simulados. |
+| RF06 | Deve ser possível visualizar o seu dempenho geral na plataforma | O aluno pode visualizar as listas de questões existentes, podendo responde-las e verificar a sua resposta, recebendo uma descrição em texto ou vídeo como correção. |
 
 ### 9. Requisitos não-funcionais
 
