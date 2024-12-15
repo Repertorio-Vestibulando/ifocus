@@ -6,7 +6,7 @@
 
 |  Data  | Versão | Descrição | Autores |
 |:-------|:-------|:----------|:------|
-| 27/11/2024 |  **`0.1`** | Início do documento de visão do projeto  | Rodrigo de Oliveira |
+| 14/11/2024 |  **`0.1`** | Início do documento de visão do projeto  | Rodrigo de Oliveira |
 
 
 ### 1. Objetivo do Projeto 
@@ -18,9 +18,9 @@ O projeto __IFocus__ tem como objetivo criar uma plataforma educacional em forma
 
 |         __        | __   |
 |:------------------|:-----|
-| **_O problema_**    | A falta de direcionamento ao acesso de material de qualidade para ingresso no IFRN. |
-| **_afetando_**      | Alunos, principalmente de escola pública, dos 8°s e 9°s anos. |
-| **_cujo impacto é_**| Causa a dificuldade do ingresso ao IFRN.|
+| **_O problema_**    | a falta de acesso a material de qualidade para ingresso no IFRN, |
+| **_afetando_**      | alunos, principalmente de escola pública, dos 8°s e 9°s anos. |
+| **_Cujo impacto é_**| a dificuldade do ingresso ao IFRN para esses alunos.|
 | **_Uma boa solução seria_** | Criar uma plataforma online e de fácil acesso para esses estudantes. |
 
 
@@ -77,5 +77,5 @@ O administrador será um moderador do sistema, não necessariamente usufruindo d
 | RNF02 | Privacidade | O sistema não deve revelar informações pessoais sobre seus usuários | Segurança | Obrigatório |
 | RNF03 | Facilidade de uso | O sistema deve ter uma interface de fácil entendimento | Usabilidade | Obrigatório |
 | RNF04 | Acesso inclusivo | Ser acessível para todos os usuários, independentemente de suas habilidades | Acessibilidade | Obrigatório |
-| RNF05 | | Os dados devem ser gravados de forma criptografada no banco de dados | Segurança | Obrigatório |
+| RNF05 | Criptografia | Os dados devem ser gravados de forma criptografada no banco de dados | Segurança | Obrigatório |
 
