@@ -65,8 +65,8 @@ O administrador será um moderador do sistema, não necessariamente usufruindo d
 | RF01 | Fazer o login de usuário | Para fazer o primeiro login o usuário precisará preencher um campo formulário com seu nome, e-mail e senha, e confirmar o seu e-mail. Os logins seguintes poderão ser feitos inserindo a matricula e senha. Logo após o login o usuário será redirecionado para a página inicial do site. |
 | RF02 | Assistir aulas | O aluno pode visualizar as aulas listas de aula existentes, separadas por assunto, e acessar uma aula em formato de vídeo e com uma breve descrição de texto. |
 | RF03 | Realizar as listas de questões | O aluno pode visualizar as listas de questões existentes, podendo responde-las e verificar a sua resposta, recebendo um em texto ou vídeo como correção, caso tenha. |
-| RF04 | Realizar simulados | O aluno pode visualizar as listas de questões existentes, podendo responde-las e verificar a sua resposta, recebendo uma descrição em texto ou vídeo como correção. |
-| RF05 | Acessar perfil | O aluno e o administrador devem pder acessar o seu perfil. |
+| RF04 | Realizar simulados | O aluno pode visualizar as listas de simulados existentes, podendo responde-los, o simulado deve ter limite máximo de 4 horas para ser realizado, ao enviar o simulado deve aparecer o gabairito. |
+| RF05 | Gerenciar perfil | O aluno e o administrador devem pder acessar o seu perfil e atualizalo. |
 | RF06 | Deve ser possível visualizar o seu dempenho geral na plataforma | O aluno pode visualizar as listas de questões existentes, podendo responde-las e verificar a sua resposta, recebendo uma descrição em texto ou vídeo como correção. |
 
 ### 9. Requisitos não-funcionais
